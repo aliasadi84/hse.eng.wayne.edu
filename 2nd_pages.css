@@ -1,0 +1,209 @@
+﻿html {
+	width: 100%;
+	height:100%;
+	}
+	
+body {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height:100%;
+	background-color:silver;
+	}
+
+#topblock{
+	height: 83px;	
+	width: 100%;
+	padding: 0px;
+	background-color:#074F44;
+	position:relative; left:0px;top:0px;
+	}
+	
+#top_ctr_block{
+	position:relative;
+	margin:0 auto;
+	width:960px;
+	height:83px;
+	}
+
+#WSUlogo{
+	position:relative; left:0px;top:0px;
+	width:339px;
+	height:37px;
+	}
+
+#group_name{	
+	position:relative; left:0px; top:0px;
+	text-align:center;
+	}
+	
+#AIMhigher{
+	position:absolute; right:0px;top:30px;
+	width:88px;
+	height:17px;
+}
+	
+#container {
+	width:960px; 
+	height:auto;
+	margin:0 auto;
+	padding:0; 
+	position:relative; left:0px; top:0px;
+	background-image:url('../images/oldmain.jpg');
+	background-size:100%;
+	background-repeat:repeat;
+	
+	}
+	
+#top_banner{
+	width:960px;
+	height:100px;
+	margin:0;
+	padding: 0;
+	position:relative; left:0px;	
+	}
+	
+#top_navi{
+	width:960px;
+	height:45px;
+	margin:0;
+	padding: 0;
+	position:relative; left:0px;
+	background-color:#074F44;	
+	}
+	
+#top_navi table tr {height:45px;}
+#top_navi table tr td {text-align:center; font-family:Verdana; font-weight:bold; font-size:14px;}
+#top_navi table tr td a:link {color:goldenrod; text-decoration:none;}
+#top_navi table tr td a:visited {color:goldenrod; text-decoration:none;}
+#top_navi table tr td a:hover{color:gold; text-decoration:underline;}
+
+#page{
+	width:960px;
+	height:auto;
+	margin:0;
+	padding: 0;
+	position:relative; left:0px;
+	}
+
+
+
+ul.side_navi{width:150px; line-height:35px; font-family:Verdana; font-size:16px; font-weight:bold; list-style:none; margin-top:30px;}
+ul.side_navi a:link {color:goldenrod; text-decoration:none;}
+ul.side_navi a:visited {color:goldenrod; text-decoration:none;}
+ul.side_navi a:hover {color:gold; text-decoration:underline;}
+
+ul.content {width:660px; line-height:35px; font-family:Verdana; font-size:small; list-style:normal; margin-top:30px;}
+
+#page_content{
+	width:750px;
+	height:100%;
+	margin:0px 0px;
+	padding: 0;
+	position:relative; top:0px; left:200px;
+	}
+	
+#bottomblock{
+	height: 30px;	
+	width: 100%;
+	padding: 0px;
+	background-color:#C2D2D0;
+	position:relative; left:0px;top:auto;
+	border-top:1px solid black;
+	}
+	
+#bottom_ctr_block{
+	position:relative;
+	margin:0 auto;
+	width:960px;
+	height:30px;
+	}
+	
+#bottom_PP{
+	position:absolute; left:0px;top:0px;
+	width:200px;
+	height:30px;
+	}
+
+#bottom_CR{
+	position:absolute; right:0px;top:0px;
+	width:200px;
+	height:30px;
+	float:right;
+	text-align:center;
+	}
+	
+
+h1.HSE_title{
+	margin:0;
+	padding:0;
+	color:goldenrod;	
+	}
+
+h1.page_title{
+	margin:20px 0px 20px 0px;
+	padding:0;
+	color:#074F44;
+	text-align:left;
+	font-family:Verdana;
+	font-size:large;
+	top:30px;
+	text-align:center;			
+	}
+	
+h2.page_subtitle{
+	margin:0;
+	padding:0;
+	color:cadetblue;
+	text-align:center;
+	top:60px;
+}
+
+p.content{
+	margin-left:50px;
+	padding:10px;
+	color:black;
+	font-family:Verdana;
+	font-size:small;
+	text-align:left;
+	line-height:25px;
+}
+
+p.bottom_PnP{
+	margin:0;
+	padding:0;
+	color:#074F44;
+	font-family:Arial;
+	font-size:small;
+	text-align:left;
+	line-height:30px;
+}
+
+p.bottom_CR{
+	margin:0;
+	padding:0;
+	color:#074F44;
+	font-family:Arial;
+	font-size:small;
+	text-align:right;
+	line-height:30px;
+}
+
+#bottom_PP p a{color:#074F44; font-size:small; text-decoration:none; text-align:left; height:30px;}
+
+#bottom_CR p a{color:#074F44; font-size:small; text-decoration:none; text-align:right; height:30px;}
+
+img {border-style: none;border-width: 0px;}
+
+table.page{width:auto;}
+table.page tr td{vertical-align:top; text-align:left;}
+
+
+table.group_chart{width:350px; margin-left:200px; font-family:Verdana; font-size:xx-small;}
+table.group_chart td{width:auto;}
+table.group_chart tr td{vertical-align:top; text-align:center;}
+
+table.member_info{width:100%;border-top-style:dotted;border-top-width:thin;}
+
+table.partner{ width:750px; text-align:center;}
+table.partner img{display:block;margin:0 auto;text-align:center}
